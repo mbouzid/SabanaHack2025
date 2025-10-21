@@ -40,9 +40,10 @@ Contiene mapas estáticos en formato PDF elaborados en 2010, que representan inf
 ## Mentoria
 
 Contarán con el acompañamiento de mentores. Ellos estarán disponibles para resolver dudas, compartir su experiencia y apoyar a los equipos en la formulación de soluciones creativas y viables:
-* Luz Elba Torres Guevara
-* Juan José Diaz
-* Mariam Bouzid
+* Luz Elba Torres Guevara (Universidad de la Sabana, EICEA)
+* Juan José Diaz (Cruz Roja Colombiana Seccional Bogota y Cundinamarca)
+* William Guerrero (Universidad de la Sabana, Facultad de Ingeniería)
+* Mariam Bouzid (Universidad de la Sabana, Facultad de Ingeniería)
 
 
 Además, se abrirá un grupo en Discord o WhatsApp para facilitar la comunicación, el intercambio de ideas y la coordinación entre los participantes y los mentores.
@@ -51,9 +52,9 @@ Además, se abrirá un grupo en Discord o WhatsApp para facilitar la comunicaci�
 Somos un equipo transdisciplinario e interinstitucional comprometido con la gestión del riesgo de inundaciones y la resiliencia comunitaria en la Vereda la Esmeralda en Tocancipá, Cundinamarca, Colombia. Desde la ingeniería industrial, la economía circular, la ingeniería civil y la logística humanitaria, integramos conocimientos y metodologías diversas para abordar de manera integral los desafíos del territorio. El proyecto se desarrolla en colaboración interinstitucional entre la Cruz Roja Colombiana Seccional Bogota y Cundinamarca, la Universidad de La Sabana y la Alcaldía de Tocancipá, fortaleciendo los vínculos entre ciencia, acción y comunidad.
 <table align="center">
   <tr>
-    <td align="center"><img src="docs/assets/Unisabana.png" alt="Unisabana" width="120"><br>Universidad de La Sabana</td>
+    <td align="center"><img src="docs/assets/Unisabana.png" alt="Unisabana" width="120"><br>Universidad de La Sabana (Facultad de Ingeniería y EICEA)</td>
     <td align="center"><img src="docs/assets/Alcaldia.png" alt="Alcaldía de Tocancipá" width="120"><br>Alcaldía de Tocancipá</td>
-    <td align="center"><img src="docs/assets/CruzRoja.png" alt="Cruz Roja Colombiana" width="120"><br>Cruz Roja Colombiana</td>
+    <td align="center"><img src="docs/assets/CruzRoja.png" alt="Cruz Roja Colombiana" width="120"><br>Cruz Roja Colombiana Seccional Bogota y Cundinamarca</td>
   </tr>
 </table>
 
