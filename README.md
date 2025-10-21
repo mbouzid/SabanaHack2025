@@ -1,6 +1,9 @@
 
 # SabanaHack2025
 
+<img src="docs/assets/sabana_hack_logo.png" alt="Unisabana" width="120">
+
+
 <p align="center">
         <img src="./docs/assets/conv360.png">
 </p>
@@ -19,7 +22,7 @@ Proponer una solución basada en la naturaleza (SbN) e ingeniería comunitaria (
 3. Otras estrategias de gestión de reducción de riesgos de desastres (basadas en la prevención y preparación) 
 
 
-**Más información [aquí](./reto)**
+**>>Más información [aquí](./reto)<<**
 
 ## Recursos disponibles
 
@@ -39,6 +42,5 @@ Somos un equipo transdisciplinario e interinstitucional comprometido con la gest
     <td align="center"><img src="docs/assets/Unisabana.png" alt="Unisabana" width="120"><br>Universidad de La Sabana</td>
     <td align="center"><img src="docs/assets/Alcaldia.png" alt="Alcaldía de Tocancipá" width="120"><br>Alcaldía de Tocancipá</td>
     <td align="center"><img src="docs/assets/CruzRoja.png" alt="Cruz Roja Colombiana" width="120"><br>Cruz Roja Colombiana</td>
-    <td align="center"><img src="docs/assets/OSU.png" alt="Oklahoma State University" width="120"><br>Oklahoma State University</td>
   </tr>
 </table>
