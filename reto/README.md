@@ -36,8 +36,8 @@ experiencia avanzada en tecnología.
 
 <table align="center">
   <tr>
-    <td align="center"><img src="docs/assets/Unisabana.png" alt="Unisabana" width="120"><br>Universidad de La Sabana (Facultad de Ingeniería y EICEA)</td>
-    <td align="center"><img src="docs/assets/Alcaldia.png" alt="Alcaldía de Tocancipá" width="120"><br>Alcaldía de Tocancipá</td>
-    <td align="center"><img src="docs/assets/CruzRoja.png" alt="Cruz Roja Colombiana" width="120"><br>Cruz Roja Colombiana Seccional Bogota y Cundinamarca</td>
+    <td align="center"><img src="../docs/assets/Unisabana.png" alt="Unisabana" width="120"><br>Universidad de La Sabana (Facultad de Ingeniería y EICEA)</td>
+    <td align="center"><img src="../docs/assets/Alcaldia.png" alt="Alcaldía de Tocancipá" width="120"><br>Alcaldía de Tocancipá</td>
+    <td align="center"><img src="../docs/assets/CruzRoja.png" alt="Cruz Roja Colombiana" width="120"><br>Cruz Roja Colombiana Seccional Bogota y Cundinamarca</td>
   </tr>
 </table>
