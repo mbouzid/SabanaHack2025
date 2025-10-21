@@ -39,6 +39,6 @@ Somos un equipo transdisciplinario e interinstitucional comprometido con la gest
     <td align="center"><img src="docs/assets/Unisabana.png" alt="Unisabana" width="120"><br>Universidad de La Sabana</td>
     <td align="center"><img src="docs/assets/Alcaldia.png" alt="Alcaldía de Tocancipá" width="120"><br>Alcaldía de Tocancipá</td>
     <td align="center"><img src="docs/assets/CruzRoja.png" alt="Cruz Roja Colombiana" width="120"><br>Cruz Roja Colombiana</td>
-    <td align="center"><img src="docs/assets/OSU.png" alt="Oklahoma State University" width="120"><br>Oregon State University</td>
+    <td align="center"><img src="docs/assets/OSU.png" alt="Oklahoma State University" width="120"><br>Oklahoma State University</td>
   </tr>
 </table>
