@@ -24,7 +24,7 @@ Proponer una solución basada en la naturaleza (SbN) e ingeniería comunitaria (
 ## Condiciones que debe cumplir la solución:
 * **Facilidad de uso:** la solución debe ser intuitiva, fácil de usar para la comunidad que no tienen 
 experiencia avanzada en tecnología.
-* **Bajo costo y mantenible:** debe poder implementarse con recursos locales o comunitarios.
+* **Mantenible:** la solución debe ser sostenible en el tiempo y gestionable por la propia comunidad, sin depender de recursos externos o especializados difíciles de conseguir.
 * **Integración:** la solución debería facilitar el vínculo entre comunidad e instituciones (Cruz Roja, Alcaldía, Bomberos).
 * **Escalable / replicable:** idealmente aplicable a otras veredas o comunidades.
 * **Culturalmente adecuada:** debe respetar la identidad de la vereda y el conocimiento local.
