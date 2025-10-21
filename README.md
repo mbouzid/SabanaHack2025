@@ -30,13 +30,22 @@ Proponer una solución basada en la naturaleza (SbN) e ingeniería comunitaria (
 ## Recursos disponibles
 
 El repositorio contiene diversos materiales de apoyo que facilitan la comprensión del contexto territorial, institucional y comunitario de la Vereda La Esmeralda (Tocancipá), así como la formulación de soluciones durante el hackathon.
-A continuación, se describen los principales directorios contenidos en la carpeta [resources](./resources) y su respectivo contenido:
-- [```mapas/```](resources/mapas)
+A continuación, se describen los principales directorios contenidos en la carpeta [recursos](recursos) y su respectivo contenido:
+- [```mapas/```](recursos/mapas)
 Contiene mapas estáticos en formato PDF elaborados en 2010, que representan información clave sobre el territorio rural de Tocancipá. También incluye un enlace a la cartografía básica en línea.
-- [```diagnostico_comunitario/```](resources/diagnostico_comunitario) Reúne evidencias visuales y un resumen descriptivo del proceso de diagnóstico participativo realizado con la comunidad de La Esmeralda. Las fotografías documentan talleres, recorridos y actividades comunitarias, mientras que el archivo README.md contextualiza los principales hallazgos y percepciones locales sobre los riesgos de inundación y las capacidades de respuesta.
-- [```politica_publica/```](resources/politica_publica): Incluye documentos oficiales y de referencia sobre la gestión del riesgo en el municipio.
+- [```diagnostico_comunitario/```](recursos/diagnostico_comunitario) Reúne evidencias visuales y un resumen descriptivo del proceso de diagnóstico participativo realizado con la comunidad de La Esmeralda. Las fotografías documentan talleres, recorridos y actividades comunitarias, mientras que el archivo README.md contextualiza los principales hallazgos y percepciones locales sobre los riesgos de inundación y las capacidades de respuesta.
+- [```politica_publica/```](recursos/politica_publica): Incluye documentos oficiales y de referencia sobre la gestión del riesgo en el municipio.
 - [```reto/```](./reto): Contiene la propuesta del reto del hackathon, con un archivo README.md que describe el desafío, los objetivos y los criterios de evaluación y una presentación en PowerPoint que resume los elementos principales para su divulgación durante el evento.
 
+## Mentoria
+
+Contarán con el acompañamiento de mentores. Ellos estarán disponibles para resolver dudas, compartir su experiencia y apoyar a los equipos en la formulación de soluciones creativas y viables:
+* Luz Elba Torres Guevara
+* Juan José Diaz
+* Mariam Bouzid
+
+
+Además, se abrirá un grupo en Discord o WhatsApp para facilitar la comunicación, el intercambio de ideas y la coordinación entre los participantes y los mentores.
 ## Quiénes somos
 
 Somos un equipo transdisciplinario e interinstitucional comprometido con la gestión del riesgo de inundaciones y la resiliencia comunitaria en la Vereda la Esmeralda en Tocancipá, Cundinamarca, Colombia. Desde la ingeniería industrial, la economía circular, la ingeniería civil y la logística humanitaria, integramos conocimientos y metodologías diversas para abordar de manera integral los desafíos del territorio. El proyecto se desarrolla en colaboración interinstitucional entre la Cruz Roja Colombiana Seccional Bogota y Cundinamarca, la Universidad de La Sabana y la Alcaldía de Tocancipá, fortaleciendo los vínculos entre ciencia, acción y comunidad.
@@ -47,3 +56,5 @@ Somos un equipo transdisciplinario e interinstitucional comprometido con la gest
     <td align="center"><img src="docs/assets/CruzRoja.png" alt="Cruz Roja Colombiana" width="120"><br>Cruz Roja Colombiana</td>
   </tr>
 </table>
+
+
