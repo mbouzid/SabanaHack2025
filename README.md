@@ -1,11 +1,14 @@
 
 # SabanaHack2025
 
-<img src="docs/assets/sabana_hack_logo.png" alt="Unisabana" width="120">
 
 
 <p align="center">
         <img src="./docs/assets/conv360.png">
+</p>
+
+<p align="center">
+<img src="docs/assets/sabana_hack_logo.png" alt="Unisabana" width="120">
 </p>
 
 Este repositorio contiene la información y los recursos asociados al reto propuesto por la Cruz Roja Colombiana, la Alcaldía de Tocancipa y la Universidad de La Sabana en el marco del Sabana Hack 2025.
