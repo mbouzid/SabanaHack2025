@@ -1,4 +1,5 @@
-# Sabana Hack - Desarrollo de habilidades en logística humanitaria para mejorar la resiliencia comunitaria y la gestión de recursos hídricos ante riesgos de inundaciones de la quebrada La Esmeralda en Tocancipá.
+# Sabana Hack 2025
+## Desarrollo de habilidades en logística humanitaria para mejorar la resiliencia comunitaria y la gestión de recursos hídricos ante riesgos de inundaciones de la quebrada La Esmeralda en Tocancipá.
 
 Patrocinio:
 - Universidad de La Sabana (Facultad de Ingeniería y EICEA)
