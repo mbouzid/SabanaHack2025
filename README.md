@@ -36,7 +36,7 @@ Contiene mapas estáticos en formato PDF elaborados en 2010, que representan inf
 - [```diagnostico_comunitario/```](recursos/diagnostico_comunitario) Reúne evidencias visuales y un resumen descriptivo del proceso de diagnóstico participativo realizado con la comunidad de La Esmeralda. Las fotografías documentan talleres, recorridos y actividades comunitarias, mientras que el archivo README.md contextualiza los principales hallazgos y percepciones locales sobre los riesgos de inundación y las capacidades de respuesta.
 - [```politica_publica/```](recursos/politica_publica): Incluye documentos oficiales y de referencia sobre la gestión del riesgo en el municipio.
 - [```reto/```](./reto): Contiene la propuesta del reto del hackathon, con un archivo README.md que describe el desafío, los objetivos y los criterios de evaluación y una presentación en PowerPoint que resume los elementos principales para su divulgación durante el evento.
-- [```sbn/```](./sbn): Reúne documentos útiles para comprender las Soluciones Basadas en la Naturaleza (SbN).
+- [```sbn/```](recursos/sbn): Reúne documentos útiles para comprender las Soluciones Basadas en la Naturaleza (SbN).
 
 ## Mentoria
 
