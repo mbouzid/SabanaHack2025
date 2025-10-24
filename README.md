@@ -43,6 +43,8 @@ Contiene mapas estáticos en formato PDF elaborados en 2010, que representan inf
 Contarán con el acompañamiento de mentores. Ellos estarán disponibles para resolver dudas, compartir su experiencia y apoyar a los equipos en la formulación de soluciones creativas y viables:
 * Luz Elba Torres Guevara (Universidad de la Sabana, EICEA)
 * Juan José Diaz (Cruz Roja Colombiana Seccional Bogota y Cundinamarca)
+* Giovanna Rojas (Cruz Roja Colombiana Seccional Bogota y Cundinamarca)
+* María Mercedes García  (Cruz Roja Colombiana Seccional Bogota y Cundinamarca)
 * William Guerrero (Universidad de la Sabana, Facultad de Ingeniería)
 * Mariam Bouzid (Universidad de la Sabana, Facultad de Ingeniería)
 
