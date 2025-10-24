@@ -20,8 +20,8 @@ Desarrollar una solución innovadora y aplicable en territorio, que mejore la re
 
 1. Sistema comunitario de alerta temprana:
 Diseñar un mecanismo sencillo y de bajo costo (SMS, sirena, mensajes, app offline, banderas, etc.) que permita avisar a tiempo sobre la creciente de la quebrada y coordinar la respuesta entre los vecinos.
-2. Solución basada en Naturaleza e Ingeniería Comunitaria:
-Proponer una solución basada en la naturaleza (SbN) e ingeniería comunitaria (Huertas elevadas contra inundaciones, biofiltros (plantas) + barreras naturales , monitoreo participativo del agua)
+2. Solución basada en la Naturaleza (SbN) e ingeniería comunitaria:
+Proponer una plataforma integrada para la gestión y el monitoreo participativo de solución basada en la naturaleza.
 3. Otras estrategias de gestión de reducción de riesgos de desastres (basadas en la prevención y preparación) 
 
 
