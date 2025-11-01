@@ -31,7 +31,7 @@ Proponer una plataforma integrada para la gestión y el monitoreo participativo 
 
 El repositorio contiene diversos materiales de apoyo que facilitan la comprensión del contexto territorial, institucional y comunitario de la Vereda La Esmeralda (Tocancipá), así como la formulación de soluciones durante el hackathon.
 A continuación, se describen los principales directorios contenidos en la carpeta [recursos](recursos) y su respectivo contenido:
-- [```mapas/```](recursos/mapas_y_datos)
+- [```mapas_y_datos/```](recursos/mapas_y_datos)
 Contiene mapas estáticos en formato PDF elaborados en 2010, que representan información clave sobre el territorio rural de Tocancipá. También incluye un enlace a la cartografía básica en línea.
 - [```diagnostico_comunitario/```](recursos/diagnostico_comunitario) Reúne evidencias visuales y un resumen descriptivo del proceso de diagnóstico participativo realizado con la comunidad de La Esmeralda. Las fotografías documentan talleres, recorridos y actividades comunitarias, mientras que el archivo README.md contextualiza los principales hallazgos y percepciones locales sobre los riesgos de inundación y las capacidades de respuesta.
 - [```politica_publica/```](recursos/politica_publica): Incluye documentos oficiales y de referencia sobre la gestión del riesgo en el municipio.
