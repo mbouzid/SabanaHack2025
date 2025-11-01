@@ -30,7 +30,7 @@ experiencia avanzada en tecnología.
 * **Culturalmente adecuada:** debe respetar la identidad de la vereda y el conocimiento local.
 * **Impacto medible:** la propuesta debe demostrar cómo reduce el riesgo, el tiempo de respuesta o los daños de una inundación.
 * **Participación comunitaria:** la solución debe considerar el involucramiento de líderes locales, mujeres, jóvenes o sabedores del territorio.
-* **Limitaciones técnicas:** el diseño de la solución propuesta debe ser viable y realista, teniendo en cuenta un presupuesto máximo estimado de $ 20 000 0000 COP.
+* **Limitaciones técnicas:** el diseño de la solución propuesta debe ser viable y realista, teniendo en cuenta un presupuesto máximo estimado de $ 20 000 000 COP.
 
 ## Patrocinio
 
