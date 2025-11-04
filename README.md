@@ -21,7 +21,7 @@ Se felicita a todos los equipos participantes por su esfuerzo, dedicación y cre
 El detalle de la implementación de cada proyecto está disponible en este [repositorio](https://github.com/Sabana-Hack-2025/Hackaton2025/tree/main). A continuación, se comparten los enlaces de los pitchs:
 - [**Goliaths**](https://youtu.be/WOHLdZ1KpHU)
 - [**Webelopers**](https://youtube.com/shorts/OQHp-xRfmDc?si=bR-FdJ1WXH0Zk_Hm)
-- **Java The Hub** *(enlace no disponible)*
+- [**Java The Hub**](https://youtu.be/Z6hlIKWngDs)
 - [**DataExt**](https://youtu.be/sRr3DYs9YLo)
 - [**Mecanimals**](https://youtube.com/watch?v=Pt4mMb7VQ7I&feature=youtu.be)
 - [**IngeGirls**](https://drive.google.com/drive/folders/1hWZ2XMqbC0COgjGrJ0OOa8k0rAYnfxoZ?usp=drive_link)
