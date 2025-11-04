@@ -13,6 +13,42 @@
 
 Este repositorio contiene la información y los recursos asociados al reto propuesto por la Cruz Roja Colombiana, la Alcaldía de Tocancipa y la Universidad de La Sabana en el marco del Sabana Hack 2025.
 
+![foto_grupo_premiacion.JPG](docs/assets/foto_grupo_premiacion.JPG)
+
+## ¡Gracias!
+
+Se felicita a todos los equipos participantes por su esfuerzo, dedicación y creatividad! Cada grupo presentó soluciones innovadoras y demostró un gran espíritu colaborativo. 
+El detalle de la implementación de cada proyecto está disponible en este [repositorio](https://github.com/Sabana-Hack-2025/Hackaton2025/tree/main). A continuación, se comparten los enlaces de los pitchs:
+- [**Goliaths**](https://youtu.be/WOHLdZ1KpHU)
+- [**Webelopers**](https://youtube.com/shorts/OQHp-xRfmDc?si=bR-FdJ1WXH0Zk_Hm)
+- **Java The Hub** *(enlace no disponible)*
+- [**DataExt**](https://youtu.be/sRr3DYs9YLo)
+- [**Mecanimals**](https://youtube.com/watch?v=Pt4mMb7VQ7I&feature=youtu.be)
+- [**IngeGirls**](https://drive.google.com/drive/folders/1hWZ2XMqbC0COgjGrJ0OOa8k0rAYnfxoZ?usp=drive_link)
+- [**404 Not Found (Sleep)**](https://youtu.be/uTSDv8JEJWs?si=MZuk3XAlKCpOogSa)
+
+
+Felicitaciones a los ganadores:
+
+<table>
+<tr>
+<td>
+<figure>
+<img src="./docs/assets/ganador_1er_puesto.jpg" alt="Equipo ganador Mecanimals" style="width:100%;max-height:500px;object-fit:cover;border-radius:8px;" />
+<figcaption><strong> 1# - Mecanimals</strong></figcaption>
+</figure>
+</td>
+<td>
+<figure>
+<img src="./docs/assets/ganador_2do_puesto.jpg" alt="Segundo lugar Goliaths" style="width:100%;max-height:500px;object-fit:cover;border-radius:8px;" />
+<figcaption><strong> 2# - Goliaths</strong></figcaption>
+</figure>
+</td>
+</tr>
+</table>
+
+
+---
 
 ## Reto
 
@@ -49,8 +85,16 @@ Contarán con el acompañamiento de mentores. Ellos estarán disponibles para re
 * William J. Guerrero (Universidad de la Sabana, Facultad de Ingeniería)
 * Mariam Bouzid (Universidad de la Sabana, Facultad de Ingeniería)
 
-
 Además, se abrirá un grupo en Teams, Discord o WhatsApp para facilitar la comunicación, el intercambio de ideas y la coordinación entre los participantes y los mentores.
+
+## Jurado
+
+* Luz Elba Torres Guevara (Universidad de la Sabana, EICEA)
+* Juan José Diaz (Cruz Roja Colombiana Seccional Bogota y Cundinamarca)
+* William J. Guerrero (Universidad de la Sabana, Facultad de Ingeniería)
+* Mariam Bouzid (Universidad de la Sabana, Facultad de Ingeniería)
+* Karol Mondragon (Alcaldia de Tocancipa)
+
 ## Quiénes somos
 
 Somos un equipo transdisciplinario e interinstitucional comprometido con la gestión del riesgo de inundaciones y la resiliencia comunitaria en la Vereda la Esmeralda en Tocancipá, Cundinamarca, Colombia. Desde la ingeniería industrial, la economía circular, la ingeniería civil y la logística humanitaria, integramos conocimientos y metodologías diversas para abordar de manera integral los desafíos del territorio. El proyecto se desarrolla en colaboración interinstitucional entre la Cruz Roja Colombiana Seccional Bogota y Cundinamarca, la Universidad de La Sabana y la Alcaldía de Tocancipá, fortaleciendo los vínculos entre ciencia, acción y comunidad.
